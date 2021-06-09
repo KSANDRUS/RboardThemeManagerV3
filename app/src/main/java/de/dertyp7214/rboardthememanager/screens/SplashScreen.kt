@@ -28,7 +28,7 @@ import java.net.URL
 class SplashScreen : AppCompatActivity() {
 
     private val checkUpdateUrl =
-        "https://github.com/DerTyp7214/RboardThemeManagerV3/releases/download/latest-${BuildConfig.BUILD_TYPE}/output-metadata.json"
+        "https://github.com/DerTyp7214/RboardThemeManagerV3/releases/download/latest-rCompatible/output-metadata.json"
     private val gboardPlayStoreUrl =
         "https://play.google.com/store/apps/details?id=${Config.GBOARD_PACKAGE_NAME}"
 
